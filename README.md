@@ -91,9 +91,10 @@ Ensure you have the following installed:
 
    Create a `.env` file in the `server` directory and add your MongoDB URI and JWT secret: 
 
-   ```PORT=5000
-MONGODB_URI=mongodb://localhost:27017/learning-platform
-JWT_SECRET=your_jwt_secret_key
+   ```plaintext
+   PORT=5000
+  MONGODB_URI=mongodb://localhost:27017/learning-platform
+  JWT_SECRET=your_jwt_secret_key
  
 
 ### Running the Application 
