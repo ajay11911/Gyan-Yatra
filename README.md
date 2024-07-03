@@ -73,10 +73,9 @@ Ensure you have the following installed:
 
    git clone https://github.com/adityaraj74/Gyan-Yatra 
 
- 
+    git clone https://github.com/Abhishekrawat2812/Gyan-Yatra
 
-   git clone https://github.com/ajay-gupta/Gyan-Yatra 
-
+   git clone https://github.com/ajay11911/Gyan-Yatra
    ``` 
 
 2. Install the dependencies for backend: 
